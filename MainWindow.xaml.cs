@@ -105,5 +105,20 @@ namespace ejercicio01
                             select s;
             dbgrid.ItemsSource = registros.ToList();
         }
+
+        private void Button_Click_6(object sender, RoutedEventArgs e)
+        {
+            if (Regex.IsMatch(depas.Text, "^[a-zA-Z]+$") )
+            {
+                //instanciar bd
+                demoEF db = new demoEF();
+                Departamento deps = new Departamento();
+                deps.Nombre = depas.Text;
+                
+
+                db.Departamentos.Add(deps);
+                db.SaveChanges();
+            }
+        }
     }
 }

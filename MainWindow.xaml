@@ -19,7 +19,9 @@
         <Button Content="Consulta por ID" HorizontalAlignment="Left" Margin="381,86,0,0" VerticalAlignment="Top" Width="105" Click="Button_Click_4" Grid.ColumnSpan="2" FontSize="14"/>
         <Button Content="Consulta todos" HorizontalAlignment="Left" Margin="381,131,0,0" VerticalAlignment="Top" Width="105" Grid.ColumnSpan="2" FontSize="14
                 " Click="Button_Click_5"/>
-        <DataGrid x:Name="dbgrid" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="93,231,0,0" VerticalAlignment="Top" Height="65" Width="274"/>
+        <DataGrid x:Name="dbgrid" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="10,225,0,0" VerticalAlignment="Top" Height="65" Width="184"/>
+        <Button Grid.ColumnSpan="2" Content="ENVIAR DEPS" HorizontalAlignment="Left" Margin="295,270,0,0" VerticalAlignment="Top" Width="110" Height="39" Click="Button_Click_6"/>
+        <TextBox x:Name="depas" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="22" Margin="246,238,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159"/>
 
     </Grid>
 </Window>
