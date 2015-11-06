@@ -75,6 +75,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MiBD\demoEF.cs" />
+    <Compile Include="MiBD\Departamento.cs" />
     <Compile Include="MiBD\Empleado.cs" />
     <Compile Include="Migrations\201510281507325_EmpleadoTabla.cs" />
     <Compile Include="Migrations\201510281507325_EmpleadoTabla.Designer.cs">
@@ -83,6 +84,10 @@
     <Compile Include="Migrations\201510281539156_otro.cs" />
     <Compile Include="Migrations\201510281539156_otro.Designer.cs">
       <DependentUpon>201510281539156_otro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201511061625091_deps2.cs" />
+    <Compile Include="Migrations\201511061625091_deps2.Designer.cs">
+      <DependentUpon>201511061625091_deps2.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -103,6 +108,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201510281539156_otro.resx">
       <DependentUpon>201510281539156_otro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201511061625091_deps2.resx">
+      <DependentUpon>201511061625091_deps2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

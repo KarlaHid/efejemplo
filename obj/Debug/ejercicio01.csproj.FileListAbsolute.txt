@@ -17,3 +17,19 @@ E:\6TO SEMESTRE\ADMON BD\PRACTICA 1 MIGRACIONES\ejercicio01\ejercicio01\obj\Debu
 E:\6TO SEMESTRE\ADMON BD\PRACTICA 1 MIGRACIONES\ejercicio01\ejercicio01\obj\Debug\ejercicio01.pdb
 E:\6TO SEMESTRE\ADMON BD\PRACTICA 1 MIGRACIONES\ejercicio01\ejercicio01\obj\Debug\ejercicio01.Migrations.EmpleadoTabla.resources
 E:\6TO SEMESTRE\ADMON BD\PRACTICA 1 MIGRACIONES\ejercicio01\ejercicio01\obj\Debug\ejercicio01.Migrations.otro.resources
+C:\Users\alumno15\Desktop\New folder\efejemplo\bin\Debug\ejercicio01.exe.config
+C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.exe
+C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.pdb
+C:\Users\alumno15\Desktop\New folder\efejemplo\bin\Debug\ejercicio01.exe
+C:\Users\alumno15\Desktop\New folder\efejemplo\bin\Debug\ejercicio01.pdb
+C:\Users\alumno15\Desktop\New folder\efejemplo\bin\Debug\EntityFramework.xml
+C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\MainWindow.baml
+C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\MainWindow.g.cs
+C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\App.g.cs
+C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01_MarkupCompile.cache
+C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.g.resources
+C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.Migrations.EmpleadoTabla.resources
+C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.Migrations.otro.resources
+C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.Properties.Resources.resources
+C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.csproj.GenerateResource.Cache
+C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.Migrations.deps2.resources
