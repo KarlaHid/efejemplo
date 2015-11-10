@@ -22,7 +22,6 @@ C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.exe
 C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.pdb
 C:\Users\alumno15\Desktop\New folder\efejemplo\bin\Debug\ejercicio01.exe
 C:\Users\alumno15\Desktop\New folder\efejemplo\bin\Debug\ejercicio01.pdb
-C:\Users\alumno15\Desktop\New folder\efejemplo\bin\Debug\EntityFramework.xml
 C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\MainWindow.baml
 C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\MainWindow.g.cs
 C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\App.g.cs
@@ -33,3 +32,4 @@ C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.Migrations.
 C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.Properties.Resources.resources
 C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.csproj.GenerateResource.Cache
 C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.Migrations.deps2.resources
+C:\Users\alumno15\Desktop\New folder\efejemplo\obj\Debug\ejercicio01.csprojResolveAssemblyReference.cache

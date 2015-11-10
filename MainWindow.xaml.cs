@@ -35,6 +35,7 @@ namespace ejercicio01
             Empleado emp = new Empleado();
             emp.Nombre = nombre.Text;
             emp.Sueldo = int.Parse(sueldo.Text);
+            emp.Departamento_id = (int)com1.SelectedValue;
 
             db.Empleados.Add(emp);
             db.SaveChanges();
@@ -119,6 +120,15 @@ namespace ejercicio01
                 db.Departamentos.Add(deps);
                 db.SaveChanges();
             }
+        }
+
+        private void Grid_Loaded_1(object sender, RoutedEventArgs e)
+        {
+            demoEF db = new demoEF();
+            com1.ItemsSource = db.Departamentos.ToList();
+            com1.DisplayMemberPath = "Nombre";
+            com1.SelectedValuePath = "id";
+
         }
     }
 }
